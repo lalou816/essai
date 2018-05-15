@@ -257,7 +257,7 @@ class Controller extends BlockController
 
         }
             
-        return $this->$jeej;
+        return $this->$nav;
     }    
 
 
